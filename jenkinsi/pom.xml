@@ -2,7 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.web</groupId>
   <artifactId>jenkinsi</artifactId>
-    <packaging>war</packaging>
+  <version>1.0</version>
+   <packaging>war</packaging>
   <build>
     <plugins>
       <plugin>
